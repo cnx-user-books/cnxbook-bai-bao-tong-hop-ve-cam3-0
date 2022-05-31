@@ -1,0 +1,25 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Tóm tắt mô hình CAM3.0</title>
+  <metadata>
+  <md:content-id>m29544</md:content-id><md:title>Tóm tắt mô hình CAM3.0</md:title>
+  <md:abstract>Giới thiệu ngắn ngọn về bài báo mô hình CAM3.0</md:abstract>
+  <md:uuid>1cd2743d-5155-4a31-8895-b1896b1ad6e7</md:uuid>
+</metadata>
+
+<content>
+    <para id="id18301941">
+      <emphasis>MÔ HÌNH KHÍ HẬU KHÍ QUYỂN CAM3.0</emphasis>
+    </para>
+    <para id="id19833057">
+      <foreign>TS. Trần Quang Đức</foreign>
+    </para>
+    <para id="id21725192">Khoa Khí tượng-Thủy văn và hải dương học</para>
+    <para id="id20664387">Trường Đại học Khoa học tự nhiên, ĐHQG Hà Nội</para>
+    <para id="id20482982">
+      <foreign>CAM3.0 là mô hình khí hậu khí quyển 3-chiều thế hệ thứ năm, là phiên bản gần đây nhất được thiết kế tại Trung Tâm Nghiên Cứu Khí Quyển Quốc Gia – Hoa Kỳ (NCAR). Thế hệ mô hình đầu tiên đã được phát triển trên 15 năm, trải qua nhiều phiên bản với những cải tiến, nâng cấp đến nay CAM3.0 gồm nhiều tính năng, có cơ sở vật lý chặt chẽ, cấu trúc mô hình tương đối đơn giản. Sử dụng CAM3.0 chạy mô phỏng hạn dài, tiến hành đánh giá bước đầu một tháng tiêu biểu mùa hè và mùa đông.</foreign>
+    </para>
+    <para id="id12012545">
+      <foreign/>
+    </para>
+  </content>
+</document>

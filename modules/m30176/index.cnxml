@@ -1,0 +1,46 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Lịch sử mô hình CAM3.0</title>
+  <metadata>
+  <md:content-id>m30176</md:content-id><md:title>Lịch sử mô hình CAM3.0</md:title>
+  <md:abstract>Giới thiệu lịch sử phát triển mô hình CAM3.0</md:abstract>
+  <md:uuid>464ad202-a9c9-47ef-bcc2-99edbef7d458</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-509620287985">
+      <title>Tóm tắt lịch sử phát triển</title>
+      <para id="id23995563">CAM 3.0 là tên bộ mô hình khí hậu khí quyển, được viết tắt bằng cách lấy 3 chữ cái đầu tiên của 3 từ tiếng Anh “Community Atmosphere Model 3.0”, có nghĩa là “Mô hình khí quyển cộng đồng 3.0” [4].</para>
+      <para id="id16302359">Khoảng 15 năm gần đây, nhóm Khí hậu và Động lực toàn cầu (Climate and Global Dinamics - CGD) thuộc Trung tâm nghiên cứu khí quyển quốc gia – Hoa Kỳ (NCAR) đã xây dựng mô hình tổng quát khí quyển toàn cầu 3 chiều.</para>
+      <para id="id22554237">Với mong muốn được phổ biến rộng rãi, mô hình được thiết kế có những công cụ mang tính cộng đồng, nhiều người có thể sử dụng, sáng tạo và phát triển nên nó được đặt tên là “Mô hình khí hậu cộng đồng” (Community Climate Model - CCM).</para>
+      <para id="id15509608">Phiên bản gốc Mô hình khí hậu cộng đồng của Trung tâm nghiên cứu khí quyển quốc gia, CCM0A (1982) và CCM0B (1983), dựa trên cơ sở mô hình phổ của Úc 1977, 1978 và phiên bản đoạn nhiệt mô hình phổ (1979). </para>
+      <para id="id21058263">Thế hệ thứ hai mô hình cộng đồng, CCM1, được giới thiệu vào tháng 7 năm 1987, bao gồm một loạt những thay đổi đáng kể trong xây dựng mô hình, chúng làm thay đổi cơ bản đối với mô phỏng khí hậu. Những thay đổi chính trong mô hình bao gồm thay đổi tham số hoá bức xạ, sửa lại kỹ thuật vi phân đối với chỉ số động lực, sửa lại các quá trình khuếch tán theo phương thẳng đứng và phương ngang, và thay đổi tới trao đổi năng lượng bề mặt.</para>
+      <para id="id21747267">CCM2 thế hệ thứ ba của Mô hình khí hậu cộng đồng, được giới thiệu vào tháng 10 năm 1992. Phiên bản này là kết quả của sự gắng sức lớn nâng cấp, thể hiện vật lý khoảng rộng các quá trình khí hậu, bao gồm: mây, bức xạ, đối lưu ẩm, lớp biên hành tinh và vận chuyển năng lượng. Mã nguồn CCM2 được cấu trúc lại sao cho thoả mãn được ba mục tiêu chính:</para>
+      <list id="id23156616" list-type="bulleted">
+        <item>Dễ sử dụng hơn, bao gồm cả sự linh hoạt sử dụng trên các môi trường khác nhau;</item>
+        <item>Tiện lợi kết nối giao diện vật lý chuẩn;</item>
+        <item>Kết nối những công việc đơn lẻ bằng những khả năng đa nhiệm.</item>
+      </list>
+      <para id="id21373685">Cấu hình mô hình chuẩn CCM2 có sự khác biệt cơ bản so với phiên bản trước ở hầu hết mọi khía cạnh, bắt đầu từ độ phân giải, ở đây CCM2 sử dụng độ phân giải phổ theo phương ngang T42 (bước lưới xấp xỉ 2,8x2,8 độ), với 18 mực theo phương thẳng đứng và mực trên cùng cứng 2,917 mb. Thay đổi động lực bao gồm sử dụng trục toạ độ thẳng đứng địa hình lai, kết hợp sơ đồ Bán-Lagrangian cho vận chuyển ẩm theo phương ngang. Những thay đổi cơ bản về vật lý bao gồm việc sử dụng gần đúng -Eddington để tính hấp thụ bức xạ mặt trời, sử dụng dạng đường Voigt để thực tế hơn đối với bức xạ hồng ngoại làm lạnh tầng bình lưu vv…</para>
+      <para id="id21305674">CCM3 là thể hệ thứ tư trong loạt Mô hình khí hậu cộng đồng của NCAR. Có nhiều thay đổi quan trọng trong lựa chọn tham số hoá vật lý, những thay đổi về động lực. Chú trọng sửa đổi vật lý tiêu biểu đối với các quá trình khí hậu riêng trong CCM3, cũng như sửa đổi để mô hình khí quyển kết nối tiện lợi, phù hợp hơn với các mô hình thành phần đất, đại dương, băng biển. Có nghĩa là thay đổi quan trọng đối với mô hình khí quyển hướng tới hệ thống hoá tốt hơn các nguồn năng lượng tại đỉnh và bề mặt khí quyển. So sánh với phiên bản CCM2 những thay đổi chính có thể nhóm thành 5 nhóm:</para>
+      <list id="id19987190" list-type="bulleted">
+        <item>Thay đổi đối với truyền bức xạ qua cột không khí có và không có mây;</item>
+        <item>Thay đổi các quá trình thuỷ văn (những thay đổi trong lớp biên, đối lưu ẩm, và trao đổi năng lượng bề mặt);</item>
+        <item>Kết nối mô hình bề mặt đất phức tạp;</item>
+        <item>Kết nối thành phần đại dương lớp xáo trộn mỏng/nhiệt động lực biển băng;</item>
+        <item>Lựa chọn những thay đổi khác có tính hình thức, mà không gây ra những thay đổi tới bản chất mô hình khí hậu.</item>
+      </list>
+      <para id="id19840246">CAM 3.0 là thế hệ thứ năm mô hình khí hậu toàn cầu của NCAR. Tên được thay đổi từ ‘Mô hình khí hậu cộng đồng’ thành ‘Mô hình khí quyển cộng đồng’ để phản ánh vai trò của CAM 3.0 trong hệ thống khí hậu kết nối đầy đủ. Khác hẳn với những thế hệ mô hình khí quyển trước, CAM 3.0 được thiết kế qua sự kết hợp giữa những người sự dụng và những người xây dựng trong Nhóm làm việc mô hình khí quyển (AMWG).</para>
+      <para id="id17666860">Những thay đổi chính về vật lý bao gồm:</para>
+      <list id="id21371437" list-type="bulleted">
+        <item>Ngưng kết nước mây sử dụng sản phẩm dự báo. Sửa đổi tham số hoá theo hướng thực tế hơn cho sự bốc hơi và ngưng kết dưới tác động bởi các quá trình qui mô lớn và sự thay đổi các phần mây;</item>
+        <item>Trọn gói nhiệt động lực mới đối với băng biển;</item>
+        <item>Thể hiện rõ ràng phần phủ của đất và biển băng;</item>
+        <item>Mới, tổng quát, và tiếp cận mềm dẻo trong việc tính toán bức xạ: Những tham số hoá mới tính toán dòng bức xạ sóng ngắn, sóng dài và mức nhiệt lượng;</item>
+        <item>Tham số hoá mới đối với hấp thụ sóng dài và phát xạ của hơi nước;</item>
+        <item>Cập nhật mới hấp thụ gần hồng ngoại của hơi nước;</item>
+        <item>Nền sol khí đồng dạng được thay thế bởi số liệu khí hậu hàng ngày đối với sulfat, muối biển, dioxitcarbon, bụi. CAM 3.0 bao gồm cả cơ chế tác động của sol khí núi lửa tới bức xạ sóng ngắn và sóng dài.</item>
+      </list>
+      <para id="id17728068">CAM 3.0 – là mô hình nghiên cứu, có thể chạy một cách độc lập và cũng có thể chạy kết hợp với các mô hình thành phần của Bộ mô hình khí hậu cộng đồng (CCSM – gồm bốn mô hình thành phần: Mô hình khí quyển, Mô hình đại dương, Mô hình đất, Mô hình băng biển) [1,2].</para>
+    </section>
+  </content>
+</document>
